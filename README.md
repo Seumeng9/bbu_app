@@ -3,6 +3,17 @@
 A new Flutter project.
 
 ## Getting Started
+## Run All Of These:
+
+## 1
+- flutter pub get
+## 2
+- flutter packages pub run build_runner build --delete-conflicting-outputs
+
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
